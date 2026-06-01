@@ -1,0 +1,8 @@
+# Ignore all raw data folders and CSV files
+*.csv
+batch_*/
+raw_datasets/
+
+# Ignore Python cache
+__pycache__/
+.pytest_cache/
