@@ -14,7 +14,7 @@ T_MINUTES = 1  # Time interval between automated updates
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",          
-    "password": "qpalzm2011100%" 
+    "password": "" 
 }
 
 # RESET: Complete timeline from the very first batch to the last data footprint
